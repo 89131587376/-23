@@ -1,0 +1,28 @@
+/*
+ Автор: Высоцкий Александр
+ Группа: СБС-001-О-01
+ Задание№: 7.7
+*/
+#include <iostream>
+using namespace std;
+class Factorial {
+public:
+	int n;
+	int factorial();
+ 
+};
+int main() {
+	Factorial factorial;
+	cout << "Enter n: ";
+	cin >> factorial.n;
+	int fact = factorial.factorial();
+	cout << "Factorial of a number "<< factorial.n << " = "<< fact;
+}
+int Factorial::factorial()
+{
+	int fact = 1;
+	for (int i = 1; i <= this->n; i++) {
+		fact *= i;
+	}
+	return fact;
+}v
