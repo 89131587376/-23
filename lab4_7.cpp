@@ -32,7 +32,7 @@ double calculations(int x) {
 	double result = 0;
 	const unsigned short n = 8;
 	for (int i = 0; i < n; i++) {
-		result += pow(-1, i) * pow(x, 2 *  i) / factorial(3 * i);
+		result += pow(-1, i) * pow(x, 2 *  i) / factorial(2* (i+1));
 	}
 	return result;
 }
