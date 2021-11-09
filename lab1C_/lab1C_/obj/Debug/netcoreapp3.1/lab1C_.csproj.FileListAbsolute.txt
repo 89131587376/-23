@@ -1,0 +1,13 @@
+C:\Users\Alleksik\source\repos\lab1C_\lab1C_\obj\Debug\netcoreapp3.1\lab1C_.csprojAssemblyReference.cache
+C:\Users\Alleksik\source\repos\lab1C_\lab1C_\obj\Debug\netcoreapp3.1\lab1C_.AssemblyInfoInputs.cache
+C:\Users\Alleksik\source\repos\lab1C_\lab1C_\obj\Debug\netcoreapp3.1\lab1C_.AssemblyInfo.cs
+C:\Users\Alleksik\source\repos\lab1C_\lab1C_\obj\Debug\netcoreapp3.1\lab1C_.csproj.CoreCompileInputs.cache
+C:\Users\Alleksik\source\repos\lab1C_\lab1C_\bin\Debug\netcoreapp3.1\lab1C_.exe
+C:\Users\Alleksik\source\repos\lab1C_\lab1C_\bin\Debug\netcoreapp3.1\lab1C_.deps.json
+C:\Users\Alleksik\source\repos\lab1C_\lab1C_\bin\Debug\netcoreapp3.1\lab1C_.runtimeconfig.json
+C:\Users\Alleksik\source\repos\lab1C_\lab1C_\bin\Debug\netcoreapp3.1\lab1C_.runtimeconfig.dev.json
+C:\Users\Alleksik\source\repos\lab1C_\lab1C_\bin\Debug\netcoreapp3.1\lab1C_.dll
+C:\Users\Alleksik\source\repos\lab1C_\lab1C_\bin\Debug\netcoreapp3.1\lab1C_.pdb
+C:\Users\Alleksik\source\repos\lab1C_\lab1C_\obj\Debug\netcoreapp3.1\lab1C_.dll
+C:\Users\Alleksik\source\repos\lab1C_\lab1C_\obj\Debug\netcoreapp3.1\lab1C_.pdb
+C:\Users\Alleksik\source\repos\lab1C_\lab1C_\obj\Debug\netcoreapp3.1\lab1C_.genruntimeconfig.cache
